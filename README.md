@@ -16,3 +16,5 @@ You can click the Preview link to take a look at your changes.
 [![CI](https://github.com/Adix82/Adix82/actions/workflows/blank.yml/badge.svg)](https://github.com/Adix82/Adix82/actions/workflows/blank.yml)
 
 [![CI](https://github.com/Adix82/Adix82/actions/workflows/blank.yml/badge.svg)](https://github.com/Adix82/Adix82/actions/workflows/blank.yml)
+
+[![CI](https://github.com/Adix82/Adix82/actions/workflows/blank.yml/badge.svg?branch=Main)](https://github.com/Adix82/Adix82/actions/workflows/blank.yml)
