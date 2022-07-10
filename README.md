@@ -12,3 +12,5 @@ You can click the Preview link to take a look at your changes.
 <!-- This content will not appear in the rendered Markdown -->
 
 [![Greetings](https://github.com/Adix82/Adix82/actions/workflows/greetings.yml/badge.svg)](https://github.com/Adix82/Adix82/actions/workflows/greetings.yml)
+
+[![CI](https://github.com/Adix82/Adix82/actions/workflows/blank.yml/badge.svg)](https://github.com/Adix82/Adix82/actions/workflows/blank.yml)
